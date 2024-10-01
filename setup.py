@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='RamdomPasswordGenPKG', 
+    name='random-password-generator', 
     version='0.1',  
     description='A simple customizable random password generator package.',  
     long_description=open('README.md').read(), 
