@@ -15,6 +15,7 @@ To use the password generator, simply clone the repository and run the script:
 ```bash
 git clone https://github.com/manogyaguragai/RandomPasswordPackage.git
 cd RandomPasswordPackage
+```
 
 ## Parameters
 - length: The length of the password.
@@ -29,6 +30,7 @@ from RandomPasswordGenPKG import get_random_password
 
 password = get_random_password(length=10, include_upper=False, include_numbers=False, include_special=False)
 print(f"Password: {password}")
+```
 
 ## Contributing
 
