@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='RandomPasswordGenPKG', 
+    name='RamdomPasswordGenPKG', 
     version='0.1',  
     description='A simple customizable random password generator package.',  
     long_description=open('README.md').read(), 
-    long_description_content_type='markdown', 
-    author='Manogya',
+    long_description_content_type='text/markdown', 
+    author='Manogya Guragai',
     author_email='manogyaguragai24@gmail.com',
     url='https://github.com/manogyaguragai', 
     packages=find_packages(),  
